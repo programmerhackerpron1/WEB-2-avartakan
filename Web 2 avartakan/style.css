@@ -1,0 +1,140 @@
+.main
+{
+	width: 1000px;
+	border: 1px solid black;
+	margin: auto;
+}
+.header
+{
+	background-image: url("apple inc.jpg");
+	border: 1px solid black;
+	background-repeat: no-repeat;
+	display: flex;
+}
+.smallimg
+{
+	width: 120px;
+	margin: 0px;
+}
+.bigimg
+{
+	width: 368px;
+	margin: 0px;
+}
+.img
+{
+	margin: 0px 20px 0px 0px;
+	float: left;
+}
+.menu
+{
+	border: 1px solid black;
+	justify-content: space-evenly;
+	display: flex;
+	padding: 5px;
+	text-decoration: none;
+}
+.logo
+{
+	width: 700px;
+	border: 0px solid black;
+}
+.phone
+{
+	width: 300px;
+	border: 0px solid black
+}
+.list
+{
+	height: 340px;
+	overflow: auto;
+}
+.conteiner
+{
+	border: 1px solid black;
+	padding: 20px;
+}
+.footer
+{
+	border: 1px solid black;
+	display: flex;
+	padding: 20px;
+
+}
+.href
+{
+	width: 30px;
+}
+.div
+{
+	overflow: auto;
+	height: 100px;
+}
+.h1img
+{
+	width: 150px;
+}
+.imglast
+{
+	border: 2px solid black;
+	width: 150px;
+	height: 150px;
+}
+.fh1
+{
+	text-align: center;
+}
+.imglastimg
+{
+	width: 150px;
+}
+.dat
+{
+	width: 108px;
+}
+.about
+{
+	width: 700px;
+}
+.meabout
+{
+	display: flex;
+}
+.immasin
+{
+	display: flex;
+}
+.asel
+{
+	width: 50%;
+}
+.patmel
+{
+	width: 50%;
+}
+.conteiner1
+{
+	border: 1px solid black;
+	display: flex;
+	padding: 20px;
+}
+.map
+{
+	border: 2px solid black;
+}
+.nkar
+{
+	border: 1px solid black;
+	width: 220px;
+	float: left;
+	padding: 15px;
+}
+.imgapple
+{
+	margin: auto;
+}
+.text
+{
+	height: 313px;
+	overflow: auto;
+}
